@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40vh;
+  background: rgb(4,82,128);
+  background: linear-gradient(90deg, rgba(4,82,128,1) 5%, rgba(156,30,203,1) 32%, rgba(0,212,255,1) 100%)
+}
+
+#countdownTimer {
+  color: #fff;
+  font-size: 5rem;
+  font-weight: 800;
+  font-family: sans-serif;
+}
